@@ -2,7 +2,7 @@
 
 ### Description
 
-Link on [https://www.coursera.org/learn/applied-data-science-capstone?](coursera).
+Link on [coursera](https://www.coursera.org/learn/applied-data-science-capstone?).
 
 This capstone project course will give you a taste of what data scientists go through in real life when working with data. 
 
